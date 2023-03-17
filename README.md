@@ -30,9 +30,9 @@ loses a ship. If the player loses three ships, the game ends.
 ### Cloning the Repository
 
 ```
-$ git clone https://github.com/kenhendricks00/alien-invasion.git
+$ git clone https://github.com/kenhendricks00/alien_invasion.git
 
-$ cd alien-invasion
+$ cd alien_invasion
 ```
 
 ### Running 
